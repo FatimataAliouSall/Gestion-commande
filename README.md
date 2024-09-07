@@ -18,7 +18,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 1. Clonez le repository du projet sur votre machine locale :
 
    ```bash
-   git clone https://github.com/mariem2012/exo1-express.git
+   git clone https://github.com/FatimataAliouSall/Gestion-commande.git
    cd exo1-express
 
    ```
@@ -26,7 +26,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 2. Installez les dépendances nécessaires en utilisant npm :
 
    ```bash
-   npm install  body-parser
+   npm install  
    ```
 
 ## Exécution
