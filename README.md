@@ -38,3 +38,8 @@ npm start
 ## Modélisation du projet
 
  ![UML](./assets/images/Gestion-commande.PNG)
+
+
+ ##  Auteur 
+
+ Fatimata Aliou Sall [https://github.com/FatimataAliouSall/Gestion-commande.git]
