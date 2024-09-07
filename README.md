@@ -2,9 +2,7 @@
 
 Cette application est un projet de gestion de commandes utilisant Express.js et un modèle de données basique comprenant des clients, des produits, des commandes et des détails de commande. Elle sert à démontrer l'utilisation d'Express pour créer une API RESTful en Node.js.
 
-## Modélisation du projet
 
-[UML](./assets/images/UML-modele.png)
 
 ## Prérequis
 
@@ -36,3 +34,7 @@ Pour exécuter l'application, utilisez la commande suivante :
 ```bash
 npm start
 ```
+
+## Modélisation du projet
+
+ ![UML](./assets/images/Gestion-commande.PNG)
